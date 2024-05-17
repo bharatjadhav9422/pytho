@@ -1,0 +1,4 @@
+a=(int("Enter the no:"))
+b=(int("Enter the no:"))
+c=a+b
+print("addition:",c)
